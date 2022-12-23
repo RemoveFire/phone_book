@@ -1,0 +1,47 @@
+2022-12-23 14:35:53,027 [ERROR] log.lowermodule: error reading the file
+2022-12-23 14:35:53,027 [INFO] log.uppermodule: starting the function
+2022-12-23 14:35:53,027 [ERROR] log.lowermodule: error reading the file
+2022-12-23 14:36:07,477 [ERROR] log.lowermodule: error reading the file
+2022-12-23 14:36:07,477 [INFO] log.uppermodule: starting the function
+2022-12-23 14:36:07,477 [ERROR] log.lowermodule: error reading the file
+2022-12-23 14:43:36,800 [ERROR] log.lowermodule: error reading the file
+2022-12-23 14:43:36,800 [INFO] log.uppermodule: starting the function
+2022-12-23 14:43:36,801 [ERROR] log.lowermodule: error reading the file
+2022-12-23 18:39:30,241 - INFO - info_logger - Start Program - Test print MESSAGE INFO
+2022-12-23 18:39:30,241 - INFO - info_logger - hello world
+2022-12-23 18:39:42,387 - INFO - info_logger - Start Program - Test print MESSAGE INFO
+2022-12-23 18:39:42,387 - INFO - info_logger - hello world
+2022-12-23 18:45:21,041 - INFO - info_logger - Start Program - Test print MESSAGE INFO
+2022-12-23 18:45:21,041 - INFO - info_logger - hello world
+2022-12-23 18:53:34,539 - INFO - info_logger - Start Program - Test print MESSAGE INFO
+2022-12-23 18:53:34,540 - INFO - info_logger - hello world
+2022-12-23 18:56:30,057 - INFO - info_logger - Start Program - Test print MESSAGE INFO
+2022-12-23 18:56:30,058 - INFO - info_logger - hello world
+2022-12-23 18:56:33,374 - INFO - info_logger - Start Program - Test print MESSAGE INFO
+2022-12-23 18:56:33,374 - INFO - info_logger - hello world
+2022-12-23 18:56:59,379 - INFO - info_logger - Start Program - Test print MESSAGE INFO
+2022-12-23 18:56:59,380 - INFO - info_logger - hello world
+2022-12-23 18:57:29,275 - INFO - info_logger - Start Program - Test print MESSAGE INFO
+2022-12-23 18:57:29,276 - INFO - info_logger - hello world
+2022-12-23 18:57:59,430 - INFO - info_logger - Start Program - Test print MESSAGE INFO
+2022-12-23 18:57:59,430 - INFO - info_logger - hello world
+2022-12-23 18:58:01,141 - INFO - info_logger - Start Program - Test print MESSAGE INFO
+2022-12-23 18:58:01,141 - INFO - info_logger - hello world
+2022-12-23 18:59:11,331 - INFO - info_logger - Start Program - Test print MESSAGE INFO
+2022-12-23 18:59:11,331 - INFO - info_logger - hello world
+2022-12-23 18:59:36,514 - INFO - info_logger - Start Program - Test print MESSAGE INFO
+2022-12-23 18:59:36,514 - INFO - info_logger - hello world
+2022-12-23 19:06:43,594 - INFO - info_logger - Start Program - Test print MESSAGE INFO
+2022-12-23 19:06:43,595 - INFO - info_logger - hello world
+2022-12-23 19:06:53,836 - INFO - info_logger - Start Program - Test print MESSAGE INFO
+2022-12-23 19:06:53,836 - INFO - info_logger - hello world
+2022-12-23 19:08:24,668 - INFO - info_logger - Start Program - Test print MESSAGE INFO
+2022-12-23 19:08:24,681 - INFO - info_logger - hello world
+2022-12-23 19:08:41,412 - INFO - info_logger - Start Program - Test print MESSAGE INFO
+2022-12-23 19:08:41,414 - INFO - info_logger - hello world
+2022-12-23 19:09:06,613 - INFO - info_logger - Start Program - Test print MESSAGE INFO
+2022-12-23 19:09:06,615 - INFO - info_logger - hello world
+2022-12-23 19:12:15,280 - INFO - info_logger - Start Program - Test print MESSAGE INFO
+2022-12-23 19:12:15,282 - INFO - info_logger - hello world
+2022-12-23 19:12:31,011 - INFO - info_logger - Start Program - Test print MESSAGE INFO
+2022-12-23 19:12:31,014 - INFO - info_logger - hello world

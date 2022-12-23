@@ -1,0 +1,5 @@
+2022-12-23 19:09:06,615 - DEBUG - debug_logger - hello DEBUG
+2022-12-23 19:12:15,282 - DEBUG - debug_logger - Test message (DEBUG) the main in file x+y = 28
+2022-12-23 19:12:15,282 - DEBUG - debug_logger - hello DEBUG
+2022-12-23 19:12:31,013 - DEBUG - debug_logger - Test message (DEBUG) the main in file x+y = 28
+2022-12-23 19:12:31,014 - DEBUG - debug_logger - hello DEBUG

@@ -1,0 +1,61 @@
+2022-12-23 06:09:58,848 - log.lowermodule - ERROR - error reading the file
+2022-12-23 06:09:58,848 - log.uppermodule - INFO - starting the function
+2022-12-23 06:09:58,848 - log.lowermodule - ERROR - error reading the file
+2022-12-23 06:09:58,849 - log.uppermodule - DEBUG - the function is done for the file __name__
+2022-12-23 06:10:26,228 - log.lowermodule - ERROR - error reading the file
+2022-12-23 06:10:26,229 - log.uppermodule - INFO - starting the function
+2022-12-23 06:10:26,229 - log.lowermodule - ERROR - error reading the file
+2022-12-23 06:10:26,229 - log.uppermodule - DEBUG - the function is done for the file __name__
+2022-12-23 06:10:40,892 - log.lowermodule - ERROR - error reading the file
+2022-12-23 06:10:40,893 - log.uppermodule - INFO - starting the function
+2022-12-23 06:10:40,893 - log.lowermodule - ERROR - error reading the file
+2022-12-23 06:10:40,894 - log.uppermodule - DEBUG - the function is done for the file __name__
+2022-12-23 06:12:23,187 - log.lowermodule - ERROR - error reading the file
+2022-12-23 06:12:23,187 - log.uppermodule - INFO - starting the function
+2022-12-23 06:12:23,187 - log.lowermodule - ERROR - error reading the file
+2022-12-23 06:12:23,188 - log.uppermodule - DEBUG - the function is done for the file log.main_logger
+2022-12-23 14:07:52,064 - log.lowermodule - ERROR - error reading the file
+2022-12-23 14:07:52,064 - log.uppermodule - INFO - starting the function
+2022-12-23 14:07:52,064 - log.lowermodule - ERROR - error reading the file
+2022-12-23 14:07:52,064 - log.uppermodule - WARNING - could not write file log.main_logger to destination
+2022-12-23 14:07:52,065 - log.uppermodule - DEBUG - the function is done for the file log.main_logger
+2022-12-23 14:13:25,062 - log.lowermodule - ERROR - error reading the file
+2022-12-23 14:13:25,063 - log.uppermodule - INFO - starting the function
+2022-12-23 14:13:25,063 - log.lowermodule - ERROR - error reading the file
+2022-12-23 14:13:25,063 - log.uppermodule - DEBUG - the function is done for the file log.main_logger
+2022-12-23 14:21:21,508 - log.lowermodule - ERROR - error reading the file
+2022-12-23 14:21:21,508 - log.uppermodule - INFO - starting the function
+2022-12-23 14:21:21,508 - log.lowermodule - ERROR - error reading the file
+2022-12-23 14:21:21,508 - log.uppermodule - DEBUG - the function is done for the file log.main_logger
+2022-12-23 14:35:53,027 - log.lowermodule - ERROR - error reading the file
+2022-12-23 14:35:53,027 - log.uppermodule - INFO - starting the function
+2022-12-23 14:35:53,027 - log.lowermodule - ERROR - error reading the file
+2022-12-23 14:35:53,028 - log.uppermodule - DEBUG - the function is done for the file log.main_logger
+2022-12-23 14:36:07,477 - log.lowermodule - ERROR - error reading the file
+2022-12-23 14:36:07,477 - log.uppermodule - INFO - starting the function
+2022-12-23 14:36:07,477 - log.lowermodule - ERROR - error reading the file
+2022-12-23 14:36:07,478 - log.uppermodule - DEBUG - the function is done for the file log.main_logger
+2022-12-23 14:43:36,800 - log.lowermodule - ERROR - error reading the file
+2022-12-23 14:43:36,800 - log.uppermodule - INFO - starting the function
+2022-12-23 14:43:36,801 - log.lowermodule - ERROR - error reading the file
+2022-12-23 14:43:36,801 - log.uppermodule - DEBUG - the function is done for the file log.main_logger
+2022-12-23 19:08:24,680 - log.lowermodule - ERROR - error reading the file
+2022-12-23 19:08:24,680 - log.uppermodule - INFO - starting the function
+2022-12-23 19:08:24,680 - log.lowermodule - ERROR - error reading the file
+2022-12-23 19:08:24,681 - log.uppermodule - DEBUG - the function is done for the file log.main_logger
+2022-12-23 19:08:41,413 - log.lowermodule - ERROR - error reading the file
+2022-12-23 19:08:41,413 - log.uppermodule - INFO - starting the function
+2022-12-23 19:08:41,413 - log.lowermodule - ERROR - error reading the file
+2022-12-23 19:08:41,413 - log.uppermodule - DEBUG - the function is done for the file log.main_logger
+2022-12-23 19:09:06,614 - log.lowermodule - ERROR - error reading the file
+2022-12-23 19:09:06,614 - log.uppermodule - INFO - starting the function
+2022-12-23 19:09:06,614 - log.lowermodule - ERROR - error reading the file
+2022-12-23 19:09:06,614 - log.uppermodule - DEBUG - the function is done for the file log.main_logger
+2022-12-23 19:12:15,281 - log.lowermodule - ERROR - error reading the file
+2022-12-23 19:12:15,281 - log.uppermodule - INFO - starting the function
+2022-12-23 19:12:15,281 - log.lowermodule - ERROR - error reading the file
+2022-12-23 19:12:15,281 - log.uppermodule - DEBUG - the function is done for the file log.main_logger
+2022-12-23 19:12:31,012 - log.lowermodule - ERROR - error reading the file
+2022-12-23 19:12:31,013 - log.uppermodule - INFO - starting the function
+2022-12-23 19:12:31,013 - log.lowermodule - ERROR - error reading the file
+2022-12-23 19:12:31,013 - log.uppermodule - DEBUG - the function is done for the file log.main_logger
